@@ -1,3 +1,7 @@
+notebooks/tests.ipynb
+soft/
+data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
